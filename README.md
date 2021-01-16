@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 My name is Victor and I'm from Brazil. 
 
@@ -30,5 +30,3 @@ I've been studying and developing projects in java, html, css, and javascript.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
-![](https://komarev.com/ghpvc/?username=victorloboc&color=blue&style=flat)

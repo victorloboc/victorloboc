@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Victor and I'm from Brazil. 
 
@@ -6,7 +6,7 @@ Currently I'm changing career from mechanical engineering to software developmen
 
 I've been studying and developing projects in java, html, css, and javascript. 
 
-##Top Languages and GitHub Stats
+### Top Languages and GitHub Stats
 
 <center>
 <table>

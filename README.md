@@ -6,7 +6,7 @@ Currently I'm changing career from mechanical engineering to software developmen
 
 I've been studying and developing projects in java, html, css, and javascript. 
 
-## Top Languages and GitHub Stats :computer: 
+## :computer: Top Languages and GitHub Stats 
 
 <center>
 <table>

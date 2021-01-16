@@ -19,7 +19,7 @@ I've been studying and developing projects in java, html, css, and javascript.
 
 ## :iphone: Follow me
 
-<a href="https://www.linkedin.com/in/victorhlcorreia/"><img src="https://raw.githubusercontent.com/victorloboc/victorloboc/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/victorhlcorreia/)
+<a href="https://www.linkedin.com/in/victorhlcorreia/" target="_blank"><img src="https://raw.githubusercontent.com/victorloboc/victorloboc/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/victorhlcorreia/)
 
 
 ![](https://komarev.com/ghpvc/?username=victorloboc&color=blue&style=flat)

@@ -18,4 +18,8 @@ I've been studying and developing projects in java, html, css, and javascript.
 </center>
 
 ## Follow me
+
+![](https://komarev.com/ghpvc/?username=victorloboc&color=blue&style=flat
+
+
 <a href="https://www.linkedin.com/in/victorhlcorreia/"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/victorhlcorreia/)

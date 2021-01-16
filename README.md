@@ -19,7 +19,10 @@ I've been studying and developing projects in java, html, css, and javascript.
 
 ## Follow me
 
-![](https://komarev.com/ghpvc/?username=victorloboc&color=blue&style=flat)
+![](https://www.linkedin.com/in/victorhlcorreia/)
 
 
 <a href="https://www.linkedin.com/in/victorhlcorreia/"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/victorhlcorreia/)
+
+
+![](https://komarev.com/ghpvc/?username=victorloboc&color=blue&style=flat)
